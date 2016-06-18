@@ -1,0 +1,4 @@
+testdict={"entry1": "This is first entry",
+"entry2": "This is second entry",
+"entry3": "This is third entry",
+}
