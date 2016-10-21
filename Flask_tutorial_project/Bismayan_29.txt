@@ -1,0 +1,11 @@
+Name: Bismayan 
+Age: 29 
+Do you like cupcakes?
+no
+
+How many eyes do you have?
+2
+
+Which fruit do you like best?
+mango
+
