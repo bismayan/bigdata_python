@@ -1,0 +1,76 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set(/Users/bismayan/Dropbox/example/src/main/scala/common/package.scala, /Users/bismayan/Dropbox/example/src/main/scala/example/Lists.scala, /Users/bismayan/Dropbox/example/src/main/scala/example/Main.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/common/package.scala, /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Lists.scala, /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Main.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set(/Users/bismayan/Dropbox/example/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class, /Users/bismayan/Dropbox/example/target/scala-2.11/classes/example/Lists.class, /Users/bismayan/Dropbox/example/target/scala-2.11/classes/example/Main$delayedInit$body.class, /Users/bismayan/Dropbox/example/target/scala-2.11/classes/example/Main$.class, /Users/bismayan/Dropbox/example/target/scala-2.11/classes/example/Main.class, /Users/bismayan/Dropbox/example/target/scala-2.11/classes/example/Lists$.class, /Users/bismayan/Dropbox/example/target/scala-2.11/classes/common/package.class, /Users/bismayan/Dropbox/example/target/scala-2.11/classes/common/package$.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Lists.scala, /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Main.scala, /Users/bismayan/Dropbox/example/src/main/scala/example/Main.scala, /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/common/package.scala, /Users/bismayan/Dropbox/example/src/main/scala/common/package.scala, /Users/bismayan/Dropbox/example/src/main/scala/example/Lists.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/Users/bismayan/Dropbox/example/src/main/scala/common/package.scala, /Users/bismayan/Dropbox/example/src/main/scala/example/Lists.scala, /Users/bismayan/Dropbox/example/src/main/scala/example/Main.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Lists.scala, /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Main.scala, /Users/bismayan/Dropbox/example/src/main/scala/example/Main.scala, /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/common/package.scala, /Users/bismayan/Dropbox/example/src/main/scala/common/package.scala, /Users/bismayan/Dropbox/example/src/main/scala/example/Lists.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 3 sources: invalidated sources (6) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 3d473126, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/classes:/Users/bismayan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/target/scala-2.11/classes:/Users/bismayan/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.4.jar:/Users/bismayan/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.2.jar:/Users/bismayan/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/Users/bismayan/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 7.025605259 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/bismayan/Dropbox/example/src/main/scala/example/Lists.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/bismayan/Dropbox/example/src/main/scala/example/Lists.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/bismayan/Dropbox/example/src/main/scala/example/Lists.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/bismayan/Dropbox/example/src/main/scala/example/Lists.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/bismayan/Dropbox/example/src/main/scala/example/Lists.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, Lists, wait, $asInstanceOf, equals, cmp_val, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, recurmax, max, ==, clone, toString, !=, getClass, ne, eq, sum, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/bismayan/Dropbox/example/src/main/scala/example/Main.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/bismayan/Dropbox/example/src/main/scala/example/Main.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/bismayan/Dropbox/example/src/main/scala/example/Main.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/bismayan/Dropbox/example/src/main/scala/example/Main.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/bismayan/Dropbox/example/src/main/scala/example/Main.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, Main, toString, args, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/bismayan/Dropbox/example/src/main/scala/common/package.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/bismayan/Dropbox/example/src/main/scala/common/package.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/bismayan/Dropbox/example/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/bismayan/Dropbox/example/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/bismayan/Dropbox/example/src/main/scala/common/package.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, package, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, resourceAsStreamFromSrc, notifyAll, isInstanceOf, ???, ==, clone, subFile, toString, !=, getClass, ne, eq, ##, finalize, hashCode, ***.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Lists.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Lists.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Lists.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Lists.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Lists.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, Lists, wait, $asInstanceOf, equals, cmp_val, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, recurmax, max, ==, clone, toString, !=, getClass, ne, eq, sum, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Main.scala: Set(Lists, max)[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/common/package.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/common/package.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/common/package.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, package, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, resourceAsStreamFromSrc, notifyAll, isInstanceOf, ???, ==, clone, subFile, toString, !=, getClass, ne, eq, ##, finalize, hashCode, ***.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Main.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Main.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Main.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Main.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/src/main/scala/example/Main.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, Main, toString, args, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

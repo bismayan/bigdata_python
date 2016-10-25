@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0mRunning example.Example [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/bismayan/Dropbox/bigdata_python/scala_coursera/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/bismayan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
