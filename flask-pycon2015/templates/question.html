@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Guess the Language!</title>
+    </head>
+    <body>
+        <h1>Guess the Language!</h1>
+        <p>{{ question }}</p>
+        <form method="POST">
+            {{ form.hidden_tag() }}
+            <p>
+            {% for option in form.answer %}
+                {{ option }} {{ option.label }}<br>
+            {% endfor %}
+            {% for error in form.answer.errors %}[{{ error }}]{% endfor %}
+            </p>
+            {{ form.submit }}
+        </form>
+        <p>Click <a href="{{ url_for('index') }}">here</a> to end this game.</p>
+    </body>
+</html>

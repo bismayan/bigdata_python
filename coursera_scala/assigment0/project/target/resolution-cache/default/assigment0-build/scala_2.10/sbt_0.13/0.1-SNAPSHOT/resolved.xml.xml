@@ -4,7 +4,7 @@
 		module="assigment0-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20161024201315"
+		publication="20161025022252"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

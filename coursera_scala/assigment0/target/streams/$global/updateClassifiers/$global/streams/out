@@ -9,7 +9,7 @@
 [debug] == resolving dependencies for progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT [compile]
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@573bc39
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e057d07
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
@@ -18,7 +18,7 @@
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [compile->master]
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [info] Resolving org.scalatest#scalatest_2.11;2.2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21450111
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@18787d4
 [debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.4
 [debug] 	found org.scalatest#scalatest_2.11;2.2.4 in sbt-chain
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
@@ -26,7 +26,7 @@
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [compile->master]
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e6978e2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b803f17
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.2
 [debug] 	found org.scala-lang#scala-reflect;2.11.2 in sbt-chain
 [debug] 	[2.11.2] org.scala-lang#scala-reflect;2.11.2
@@ -35,7 +35,7 @@
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [compile->master]
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2bb89154
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fdabba
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->runtime]
@@ -43,7 +43,7 @@
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->master]
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6469626e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3689d7d4
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 in sbt-chain
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->runtime]
@@ -158,7 +158,7 @@
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [test->master]
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->default(compile)]
 [info] Resolving junit#junit;4.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39ca26ef
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@462fd2b8
 [debug] sbt-chain: module revision found in cache: junit#junit;4.10
 [debug] 	found junit#junit;4.10 in sbt-chain
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->runtime]
@@ -166,7 +166,7 @@
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->master]
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test->default(compile)]
 [info] Resolving org.hamcrest#hamcrest-core;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5726fba0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f5cd6a1
 [debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.1
 [debug] 	found org.hamcrest#hamcrest-core;1.1 in sbt-chain
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test->runtime]
@@ -442,25 +442,109 @@
 [debug] == resolving dependencies progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT->jline#jline;2.12.1 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.7!scala-library.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.7!scala-library.jar
-[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar
+[debug] 		tried /Users/bismayan/.ivy2/local/org.scala-lang/scala-library/2.11.7/srcs/scala-library-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-library;2.11.7!scala-library.jar(src) (1277ms)
+[debug] 		tried /Users/bismayan/.ivy2/local/org.scalatest/scalatest_2.11/2.2.4/srcs/scalatest_2.11-sources.jar
+[debug] 		tried /Users/bismayan/.ivy2/local/org.scalatest/scalatest_2.11/2.2.4/jars/scalatest_2.11.jar
+[debug] 		tried https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar
+[info] 	[SUCCESSFUL ] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar(src) (2710ms)
+[debug] 		tried https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar
+[info] downloading https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar
+[info] 	[SUCCESSFUL ] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar (5560ms)
+[debug] 		tried /Users/bismayan/.ivy2/local/org.scala-lang/scala-reflect/2.11.2/srcs/scala-reflect-sources.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.2!scala-reflect.jar
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.2!scala-reflect.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar
-[debug] 	[NOT REQUIRED] junit#junit;4.10!junit.jar(src)
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.2!scala-reflect.jar(src) (2425ms)
+[debug] 		tried /Users/bismayan/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.2/srcs/scala-xml_2.11-sources.jar
+[debug] 		tried /Users/bismayan/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.2/jars/scala-xml_2.11.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(src) (1239ms)
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar (873ms)
+[debug] 		tried /Users/bismayan/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/srcs/scala-parser-combinators_2.11-sources.jar
+[debug] 		tried /Users/bismayan/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/jars/scala-parser-combinators_2.11.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src) (946ms)
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar (1069ms)
 [debug] 	[NOT REQUIRED] junit#junit;4.10!junit.jar
-[debug] 	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar(src)
+[debug] 		tried /Users/bismayan/.ivy2/local/junit/junit/4.10/srcs/junit-sources.jar
+[debug] 		tried https://jcenter.bintray.com/junit/junit/4.10/junit-4.10-sources.jar
+[info] downloading https://jcenter.bintray.com/junit/junit/4.10/junit-4.10-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/junit/junit/4.10/junit-4.10-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/junit/junit/4.10/junit-4.10-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/junit/junit/4.10/junit-4.10-sources.jar
+[info] 	[SUCCESSFUL ] junit#junit;4.10!junit.jar(src) (1257ms)
+[debug] 		tried /Users/bismayan/.ivy2/local/org.hamcrest/hamcrest-core/1.1/srcs/hamcrest-core-sources.jar
 [debug] 	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.7!scala-reflect.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src)
-[debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 49ms :: artifacts dl 275ms
+[debug] 		tried https://jcenter.bintray.com/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar
+[info] downloading https://jcenter.bintray.com/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar
+[info] 	[SUCCESSFUL ] org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar(src) (1005ms)
+[debug] 		tried /Users/bismayan/.ivy2/local/org.scala-lang/scala-compiler/2.11.7/srcs/scala-compiler-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.7/scala-compiler-2.11.7-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.7/scala-compiler-2.11.7-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.7/scala-compiler-2.11.7-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.7/scala-compiler-2.11.7-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.7/scala-compiler-2.11.7-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar(src) (1919ms)
+[debug] 		tried /Users/bismayan/.ivy2/local/org.scala-lang/scala-reflect/2.11.7/srcs/scala-reflect-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.7!scala-reflect.jar(src) (1692ms)
+[debug] 		tried /Users/bismayan/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.4/srcs/scala-xml_2.11-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src) (1245ms)
+[debug] 		tried /Users/bismayan/.ivy2/local/jline/jline/2.12.1/srcs/jline-sources.jar
+[debug] 		tried https://jcenter.bintray.com/jline/jline/2.12.1/jline-2.12.1-sources.jar
+[info] downloading https://jcenter.bintray.com/jline/jline/2.12.1/jline-2.12.1-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/jline/jline/2.12.1/jline-2.12.1-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/jline/jline/2.12.1/jline-2.12.1-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/jline/jline/2.12.1/jline-2.12.1-sources.jar
+[info] 	[SUCCESSFUL ] jline#jline;2.12.1!jline.jar(src) (1046ms)
+[debug] :: resolution report :: resolve 156ms :: artifacts dl 24287ms
 [debug] 	report for progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT compile produced in /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/target/resolution-cache/reports/progfun1-example-progfun1-example$sources_2.11-compile.xml
 [debug] 	report for progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT runtime produced in /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/target/resolution-cache/reports/progfun1-example-progfun1-example$sources_2.11-runtime.xml
 [debug] 	report for progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT test produced in /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/target/resolution-cache/reports/progfun1-example-progfun1-example$sources_2.11-test.xml
@@ -474,4 +558,4 @@
 [debug] 	report for progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT docs produced in /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/target/resolution-cache/reports/progfun1-example-progfun1-example$sources_2.11-docs.xml
 [debug] 	report for progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT pom produced in /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/target/resolution-cache/reports/progfun1-example-progfun1-example$sources_2.11-pom.xml
 [debug] 	report for progfun1-example#progfun1-example$sources_2.11;0.1-SNAPSHOT scala-tool produced in /Users/bismayan/Dropbox/bigdata_python/coursera_scala/assigment0/target/resolution-cache/reports/progfun1-example-progfun1-example$sources_2.11-scala-tool.xml
-[debug] 	resolve done (49ms resolve - 275ms download)
+[debug] 	resolve done (156ms resolve - 24287ms download)
